@@ -12,4 +12,4 @@ function scuberGreetingForFeet(feet) {
 
 //function ternaryCheckCity('NYC') {
   
-}//
+//}
