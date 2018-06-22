@@ -16,7 +16,7 @@ function ternaryCheckCity(city) {
 
 function switchOnCharmFromTip(tip) {
   switch (generoustip) {
-    case 'generous' :
+    case 'if the tip is generous' :
       return 'Thank you so much.';
     case 'if the tip is not as generous' :
       return 'Thank you.' ;
