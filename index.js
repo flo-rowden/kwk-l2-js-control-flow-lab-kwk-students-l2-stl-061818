@@ -3,5 +3,5 @@ function scuberGreetingForFeet() {
 }
 
 function ternaryCheckCity() {
-  return 
+  return ('NYC')).to.equal('Ok, sounds good.');
 }
