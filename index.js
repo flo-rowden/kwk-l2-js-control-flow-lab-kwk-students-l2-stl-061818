@@ -10,8 +10,8 @@ function scuberGreetingForFeet(feet) {
   }
 }
 
-function ternaryCheckCity('NYC') {
-  return 
+function ternaryCheckCity('city') {
+  return (city == 'NYC')
 }
 
   
